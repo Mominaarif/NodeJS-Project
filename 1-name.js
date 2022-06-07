@@ -1,7 +1,7 @@
 // Local
 const secret = "TOP SECRET"
 
-// Sheare OR Globe
+// Share OR Globe
 const ali = "Ali";
 const arif = "Arif";
 const momina = "Momina";
