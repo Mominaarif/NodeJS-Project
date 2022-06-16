@@ -9,7 +9,7 @@
 
 
 // require("./5-mind.js");
-require("./1-event-loop-examples/1-read-file.js");
+require("./1-event-loop-examples/4-server.js");
 // const a = require("./1-name.js");
 // const sayHi = require("./2-utils");
 // const { items, singularPerson } = require("./4-alter.js");
